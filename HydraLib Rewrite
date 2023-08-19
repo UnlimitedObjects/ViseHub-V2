@@ -1327,7 +1327,7 @@ local function getObjGen()
             Gui.Fill.BackgroundTransparency = 1.000
             Gui.Fill.Size = UDim2.new(1, 0, 1, 0)
             Gui.Fill.ZIndex = 122
-            Gui.Fill.Image = "rbxassetid://7881868371"
+            Gui.Fill.Image = "rbxassetid://sus"
             Gui.Fill.ImageColor3 = Color3.fromRGB(32, 32, 32)
             Gui.Fill.ScaleType = Enum.ScaleType.Slice
             Gui.Fill.SliceCenter = Rect.new(512, 512, 512, 512)
